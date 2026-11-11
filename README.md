@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/TekservixHQ/waservix-zig/actions/workflows/tests.yml/badge.svg)](https://github.com/TekservixHQ/waservix-zig/actions/workflows/tests.yml)
 
+**WAservix WhatsApp API Gateway** - official Zig client: send WhatsApp messages from your own number. By Tekservix.
+
 Zig client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, documents, locations and polls.
