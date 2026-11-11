@@ -1,6 +1,7 @@
 .{
     .name = .waservix,
     .version = "1.0.0",
+    .fingerprint = 0x49b9d2f62c393f93,
     .minimum_zig_version = "0.15.1",
     .dependencies = .{},
     .paths = .{
